@@ -1,0 +1,1 @@
+Username and password is given in the application properties file. Before making controller to respond we need to provide user name and password
